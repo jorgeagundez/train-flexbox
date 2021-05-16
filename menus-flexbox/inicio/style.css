@@ -11,7 +11,7 @@ body {
     margin:0;
 }
 
-.contenedor {
+.wrapper {
     background-color: white;
     margin: 0 auto;
     max-width: 1000px;
